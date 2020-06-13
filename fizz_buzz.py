@@ -1,4 +1,4 @@
-for i in range(101):
+for i in range(200):
 	if i % 3 == 0 and not i % 5 == 0:
 		print('Fizz')
 
